@@ -1,0 +1,11 @@
+(executable
+  (name mixer)
+  (public_name mixer)
+  (libraries cmdliner eio)
+  (build_action (action
+    (with_stdout_to_file "_build/mixer.help"
+      (run ocaml
+        (flags ["-doc"]
+          (modules cmdliner_main)))))
+  (preprocess (pps ppx_jane))
+)

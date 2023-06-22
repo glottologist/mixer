@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdqEcY3OeIzj3t1/+tpuKYQXozlxhYCJS2bcCWiKtDKOT0N7iGldHAJnbRSn88yAbTaCRt/ysDPdT9s0ErVuoA==",
+  "success": true,
+  "projectFilePath": "/home/jason/development/glottologist/mixer/src/fsharp/mixer/mixer.fsproj",
+  "expectedPackageFiles": [
+    "/home/jason/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
